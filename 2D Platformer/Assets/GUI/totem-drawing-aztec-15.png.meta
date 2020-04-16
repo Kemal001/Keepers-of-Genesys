@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: d9467ff8ab72a4e40a79e626473f3e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1875334298805832411
+    second: totem-drawing-aztec-15_0
+  - first:
+      213: 1257476835398389637
+    second: totem-drawing-aztec-15_1
+  - first:
+      213: -4670180955780940160
+    second: totem-drawing-aztec-15_2
+  - first:
+      213: -133568897287106010
+    second: totem-drawing-aztec-15_3
+  - first:
+      213: -9178595599647484039
+    second: totem-drawing-aztec-15_4
+  - first:
+      213: -1016164931669933277
+    second: totem-drawing-aztec-15_5
+  - first:
+      213: -7897287971480806376
+    second: totem-drawing-aztec-15_6
+  - first:
+      213: 8153512786448318788
+    second: totem-drawing-aztec-15_7
+  - first:
+      213: -1536294128809864864
+    second: totem-drawing-aztec-15_8
+  - first:
+      213: 7389479358709767265
+    second: totem-drawing-aztec-15_9
+  - first:
+      213: 1469376165739893014
+    second: totem-drawing-aztec-15_10
+  - first:
+      213: -6883138501631479925
+    second: totem-drawing-aztec-15_11
+  - first:
+      213: 6758698857325190439
+    second: totem-drawing-aztec-15_12
+  - first:
+      213: -2357765729507119340
+    second: totem-drawing-aztec-15_13
+  - first:
+      213: -7815886563864268149
+    second: totem-drawing-aztec-15_14
+  - first:
+      213: -4088927728902231704
+    second: totem-drawing-aztec-15_15
+  - first:
+      213: -2191998631639149129
+    second: totem-drawing-aztec-15_16
+  - first:
+      213: -3205438050390228868
+    second: totem-drawing-aztec-15_17
+  - first:
+      213: -3409186186003087582
+    second: totem-drawing-aztec-15_18
+  - first:
+      213: -4845076888319654442
+    second: totem-drawing-aztec-15_19
+  - first:
+      213: 4874659140798221657
+    second: totem-drawing-aztec-15_20
+  - first:
+      213: 3427198238496183366
+    second: totem-drawing-aztec-15_21
+  - first:
+      213: -2731181884883100601
+    second: totem-drawing-aztec-15_22
+  - first:
+      213: 117952198202849594
+    second: totem-drawing-aztec-15_23
+  - first:
+      213: 2446510221013435486
+    second: totem-drawing-aztec-15_24
+  - first:
+      213: -7601055243468281338
+    second: totem-drawing-aztec-15_25
+  - first:
+      213: -7754149446483053185
+    second: totem-drawing-aztec-15_26
+  - first:
+      213: -3773577824994171534
+    second: totem-drawing-aztec-15_27
+  - first:
+      213: 6147386644453168001
+    second: totem-drawing-aztec-15_28
+  - first:
+      213: -7215173309059388678
+    second: totem-drawing-aztec-15_29
+  - first:
+      213: 3850115520881547578
+    second: totem-drawing-aztec-15_30
+  - first:
+      213: 488662583624733552
+    second: totem-drawing-aztec-15_31
+  - first:
+      213: 7543235522578596602
+    second: totem-drawing-aztec-15_32
+  - first:
+      213: 7716285790665514399
+    second: totem-drawing-aztec-15_33
+  - first:
+      213: -1636481648452458292
+    second: totem-drawing-aztec-15_34
+  - first:
+      213: -587470926126350512
+    second: totem-drawing-aztec-15_35
+  - first:
+      213: -657413342604387957
+    second: totem-drawing-aztec-15_36
+  - first:
+      213: 9028287315190337841
+    second: totem-drawing-aztec-15_37
+  - first:
+      213: -6124639823573256283
+    second: totem-drawing-aztec-15_38
+  - first:
+      213: 6713929968980008324
+    second: totem-drawing-aztec-15_39
+  - first:
+      213: -1677557094236170032
+    second: totem-drawing-aztec-15_40
+  - first:
+      213: 4162667956456723356
+    second: totem-drawing-aztec-15_41
+  - first:
+      213: -5946240093401795563
+    second: totem-drawing-aztec-15_42
+  - first:
+      213: -9138573824983129044
+    second: totem-drawing-aztec-15_43
+  - first:
+      213: -2686137049161326620
+    second: totem-drawing-aztec-15_44
+  - first:
+      213: -8632477445379498294
+    second: totem-drawing-aztec-15_45
+  - first:
+      213: -4649965626162873904
+    second: totem-drawing-aztec-15_46
+  - first:
+      213: 8551377110550678924
+    second: totem-drawing-aztec-15_47
+  - first:
+      213: 3821480059137687900
+    second: totem-drawing-aztec-15_48
+  - first:
+      213: -3178785636879319745
+    second: totem-drawing-aztec-15_49
+  - first:
+      213: 6048721382289140755
+    second: totem-drawing-aztec-15_50
+  - first:
+      213: -3845695905413294203
+    second: totem-drawing-aztec-15_51
+  - first:
+      213: -6441423536296099223
+    second: totem-drawing-aztec-15_52
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 394
+        width: 105
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda8d6bdb96860a10800000000000000
+      internalID: 1875334298805832411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f0437f484737110800000000000000
+      internalID: 1257476835398389637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 533
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef1e51a2f203fb0800000000000000
+      internalID: -4670180955780940160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 398
+        width: 104
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622592cabc7752ef0800000000000000
+      internalID: -133568897287106010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 533
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775c02bee31f9080800000000000000
+      internalID: -9178595599647484039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 533
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323ca96e06bd5e1f0800000000000000
+      internalID: -1016164931669933277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 393
+        width: 105
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cdbea7e62376290800000000000000
+      internalID: -7897287971480806376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 394
+        width: 109
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418bdb1ea8172170800000000000000
+      internalID: 8153512786448318788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 460
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06115c521acfdaae0800000000000000
+      internalID: -1536294128809864864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 460
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c1afa5354bc8660800000000000000
+      internalID: 7389479358709767265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 460
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6111a5076d5446410800000000000000
+      internalID: 1469376165739893014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 460
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe07e400e2a70a0800000000000000
+      internalID: -6883138501631479925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 460
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dd4b63dc8bbcd50800000000000000
+      internalID: 6758698857325190439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 112
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f632d9f88874fd0800000000000000
+      internalID: -2357765729507119340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b823f1c9494688390800000000000000
+      internalID: -7815886563864268149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 373
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a98605e53147c0800000000000000
+      internalID: -4088927728902231704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 373
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b59105bbd47491e0800000000000000
+      internalID: -2191998631639149129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7048f8831ff383d0800000000000000
+      internalID: -3205438050390228868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 202
+        width: 103
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ffd1af93320b0d0800000000000000
+      internalID: -3409186186003087582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5804a8d34d2ccb0800000000000000
+      internalID: -4845076888319654442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 373
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d836859a446a340800000000000000
+      internalID: 4874659140798221657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 373
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644d86cc3aadf8f20800000000000000
+      internalID: 3427198238496183366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c9f8ecb84e81ad0800000000000000
+      internalID: -2731181884883100601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a397b5a36ec03a100800000000000000
+      internalID: 117952198202849594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_24
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e544ed67510c3f120800000000000000
+      internalID: 2446510221013435486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 373
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae3f63780a38690800000000000000
+      internalID: -7601055243468281338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f513692ab36490800000000000000
+      internalID: -7754149446483053185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 373
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756ee026fe81abc0800000000000000
+      internalID: -3773577824994171534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_28
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 197
+        width: 102
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1839c973597ef4550800000000000000
+      internalID: 6147386644453168001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 373
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa2a06a1e8edb90800000000000000
+      internalID: -7215173309059388678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 202
+        width: 114
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39dc5edaab5e6530800000000000000
+      internalID: 3850115520881547578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731affd70418c600800000000000000
+      internalID: 488662583624733552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 300
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c764fdb4fea860800000000000000
+      internalID: 7543235522578596602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d13024b01c51b60800000000000000
+      internalID: 7716285790665514399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 300
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ab867c9c0a49e0800000000000000
+      internalID: -1636481648452458292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 300
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7e542e42e8d7f0800000000000000
+      internalID: -587470926126350512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89967b4c0660e6f0800000000000000
+      internalID: -657413342604387957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 213
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d510ba7bea4d70800000000000000
+      internalID: 9028287315190337841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 213
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a774bab788e00ba0800000000000000
+      internalID: -6124639823573256283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 213
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d17ef1cbbac2d50800000000000000
+      internalID: 6713929968980008324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_40
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 213
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8dd9bf5be18b8e0800000000000000
+      internalID: -1677557094236170032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 106
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93118e9374c4c930800000000000000
+      internalID: 4162667956456723356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 107
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514b99bb326ba7da0800000000000000
+      internalID: -5946240093401795563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 102
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24a23046834d2180800000000000000
+      internalID: -9138573824983129044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 140
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef19b6e59ce8bad0800000000000000
+      internalID: -2686137049161326620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_45
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 140
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace55901087433880800000000000000
+      internalID: -8632477445379498294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_46
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9f8ca46e0087fb0800000000000000
+      internalID: -4649965626162873904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_47
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 140
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d87c6cc289ca670800000000000000
+      internalID: 8551377110550678924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 4
+        width: 113
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c510421eddf980530800000000000000
+      internalID: 3821480059137687900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db1b02e4fa2e3d0800000000000000
+      internalID: -3178785636879319745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 53
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c67a8bc0061f350800000000000000
+      internalID: 6048721382289140755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5879aab03f751aac0800000000000000
+      internalID: -3845695905413294203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem-drawing-aztec-15_52
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 53
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9620b3ffb677b96a0800000000000000
+      internalID: -6441423536296099223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

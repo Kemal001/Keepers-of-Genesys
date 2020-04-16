@@ -1,0 +1,307 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8457718620907028359
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3047707155421968633}
+  - component: {fileID: 4937302908510374696}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3047707155421968633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8457718620907028359}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4937302908510374696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8457718620907028359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5fa5ee36322636428f514616301f113, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Explosion
+    clip: {fileID: 8300000, guid: d35b8651ceb75024aa74681a67d31295, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: First Jump
+    clip: {fileID: 8300000, guid: d66628aeb12561a4992af4b517687051, type: 3}
+    volume: 0.5
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Second Jump
+    clip: {fileID: 8300000, guid: 7dcf5642c4124544fb08540b50430593, type: 3}
+    volume: 0.5
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: RLFootstep
+    clip: {fileID: 8300000, guid: 1d753839b22aa4d40a032684b4df4512, type: 3}
+    volume: 0.02
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: LLFootstep
+    clip: {fileID: 8300000, guid: eb084565eef6b9747b95f6e3fb30afd8, type: 3}
+    volume: 0.02
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Shot
+    clip: {fileID: 8300000, guid: 540d205f355dc4841884496dba50bde9, type: 3}
+    volume: 0.2
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Diamond
+    clip: {fileID: 8300000, guid: 5cc0b1c5727572644b1967b432fe02e3, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Coins Drop
+    clip: {fileID: 8300000, guid: bb34628007694f846ba2f359cbae8c30, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Single Coin
+    clip: {fileID: 8300000, guid: de6b08c5d67d83148a23be81a9710d58, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Circular Saw
+    clip: {fileID: 8300000, guid: df9625ad4400598478e76ec670774c5a, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 1
+    maxDistance: 2
+    spatialBlend: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Jumanji
+    clip: {fileID: 8300000, guid: c49eb61e50730504bbe9259bba311be5, type: 3}
+    volume: 0.5
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 1
+    source: {fileID: 0}
+  - name: Arrow Hit
+    clip: {fileID: 8300000, guid: c8e81038f26300c44883b4e5870b37ac, type: 3}
+    volume: 0.3
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Arrow Hit Body
+    clip: {fileID: 8300000, guid: c7d959ed13aa650479020bbba41c3131, type: 3}
+    volume: 0.2
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack1
+    clip: {fileID: 8300000, guid: 98fbe24018b707d40a398ba82e4a665f, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack2
+    clip: {fileID: 8300000, guid: 4b3c75596e4647445b6d83636d3d82a6, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack3
+    clip: {fileID: 8300000, guid: 9c0d5e36fb9f5fc49995323d06684000, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Monster Death
+    clip: {fileID: 8300000, guid: 205b0a19f71147148975fe5efd111964, type: 3}
+    volume: 0.5
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Cave Sound
+    clip: {fileID: 8300000, guid: d3e0200cc81204645ac58d664010850d, type: 3}
+    volume: 0.01
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 1
+    source: {fileID: 0}
+  - name: Bow Charge
+    clip: {fileID: 8300000, guid: ed0e7df5a7ab2f143afd722c82096e65, type: 3}
+    volume: 0.5
+    pitch: 2.5
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Release Arrow
+    clip: {fileID: 8300000, guid: 718de8d58a38544409f609f5cd106950, type: 3}
+    volume: 0.1
+    pitch: 1.5
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Arrow Mid Air
+    clip: {fileID: 8300000, guid: 718de8d58a38544409f609f5cd106950, type: 3}
+    volume: 0.1
+    pitch: 2
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Openning Door
+    clip: {fileID: 8300000, guid: 8f2f05496bc7b6146ae28faf72e7181a, type: 3}
+    volume: 0.1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Closing Door
+    clip: {fileID: 8300000, guid: 1d405e8eeb74e8e459c2414b3efdeebc, type: 3}
+    volume: 0.1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Death By Obstacles
+    clip: {fileID: 8300000, guid: 7a1b4757ab6925348af85e5f7b09a394, type: 3}
+    volume: 0.5
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Dash
+    clip: {fileID: 8300000, guid: c662fddc6f9640c43b9c904159d6be65, type: 3}
+    volume: 0.5
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack1HitBody
+    clip: {fileID: 8300000, guid: 16c8899e5b830744cac76bbf49545009, type: 3}
+    volume: 0.3
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack2HitBody
+    clip: {fileID: 8300000, guid: 71c1fe7c4953ebb46bff3fb7c2899de5, type: 3}
+    volume: 0.3
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack3HitBody
+    clip: {fileID: 8300000, guid: ab4940a0a246e2d4fa84c0589d8405af, type: 3}
+    volume: 0.3
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Earthquake
+    clip: {fileID: 8300000, guid: b3e5af1db79e1944c956fc41a7bfd96f, type: 3}
+    volume: 0.5
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
