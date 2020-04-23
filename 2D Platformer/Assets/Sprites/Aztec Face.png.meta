@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: afee6170dc273634c929840aaffda62a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9144970067497498656
+    second: Aztec Tile Set_0
+  - first:
+      213: -7322465494985602104
+    second: Aztec Tile Set_1
+  - first:
+      213: 5350261617460332649
+    second: Aztec Tile Set_2
+  - first:
+      213: -5859798753623535580
+    second: Aztec Tile Set_3
+  - first:
+      213: 3059417756783308960
+    second: Aztec Tile Set_4
+  - first:
+      213: -8764902315209393267
+    second: Aztec Tile Set_5
+  - first:
+      213: -4067968426487419784
+    second: Aztec Tile Set_6
+  - first:
+      213: -1751578428616366372
+    second: Aztec Tile Set_7
+  - first:
+      213: -8496923198459915826
+    second: Aztec Tile Set_8
+  - first:
+      213: 3911046371771266152
+    second: Aztec Tile Set_9
+  - first:
+      213: 7948195221457199471
+    second: Aztec Tile Set_10
+  - first:
+      213: 291623857864168448
+    second: Aztec Tile Set_11
+  - first:
+      213: -1782302564007226290
+    second: Aztec Tile Set_12
+  - first:
+      213: -936133877572372582
+    second: Aztec Tile Set_13
+  - first:
+      213: -869839079357752397
+    second: Aztec Tile Set_14
+  - first:
+      213: 8420123327741029116
+    second: Aztec Tile Set_15
+  - first:
+      213: -4462837737697023013
+    second: Aztec Tile Set_16
+  - first:
+      213: 3098250660658378795
+    second: Aztec Tile Set_17
+  - first:
+      213: 6534368267066173459
+    second: Aztec Tile Set_18
+  - first:
+      213: -7581271672926814873
+    second: Aztec Tile Set_19
+  - first:
+      213: 1331806609143320711
+    second: Aztec Tile Set_20
+  - first:
+      213: -4436054866897766200
+    second: Aztec Tile Set_21
+  - first:
+      213: 4076659586428483952
+    second: Aztec Tile Set_22
+  - first:
+      213: -7529446229878816995
+    second: Aztec Tile Set_23
+  - first:
+      213: 3011558557757706764
+    second: Aztec Tile Set_24
+  - first:
+      213: -322481297912720273
+    second: Aztec Tile Set_25
+  - first:
+      213: 8453487227716171116
+    second: Aztec Tile Set_26
+  - first:
+      213: 6941149288590042742
+    second: Aztec Tile Set_27
+  - first:
+      213: -2935970971052969275
+    second: Aztec Tile Set_28
+  - first:
+      213: -1785908427041805868
+    second: Aztec Tile Set_29
+  - first:
+      213: -7067364899845022715
+    second: Aztec Tile Set_30
+  - first:
+      213: -7524572592305224456
+    second: Aztec Tile Set_31
+  - first:
+      213: 9071846388417852489
+    second: Aztec Tile Set_32
+  - first:
+      213: -5746157613566831019
+    second: Aztec Tile Set_33
+  - first:
+      213: -6719988639116142600
+    second: Aztec Tile Set_34
+  - first:
+      213: 5783412320732917007
+    second: Aztec Tile Set_35
+  - first:
+      213: 2032388144429703370
+    second: Aztec Tile Set_36
+  - first:
+      213: 7123592500775285861
+    second: Aztec Tile Set_37
+  - first:
+      213: -5783216585290447828
+    second: Aztec Tile Set_38
+  - first:
+      213: 804875346939549467
+    second: Aztec Tile Set_39
+  - first:
+      213: -800910237625837725
+    second: Aztec Tile Set_40
+  - first:
+      213: -81050404886125940
+    second: Aztec Tile Set_41
+  - first:
+      213: 4516319142724181299
+    second: Aztec Tile Set_42
+  - first:
+      213: -7491931685109979229
+    second: Aztec Tile Set_43
+  - first:
+      213: -4972754001052485409
+    second: Aztec Tile Set_44
+  - first:
+      213: -7085032288355460727
+    second: Aztec Tile Set_45
+  - first:
+      213: -5347421690021476302
+    second: Aztec Tile Set_46
+  - first:
+      213: -143492682587472092
+    second: Aztec Tile Set_47
+  - first:
+      213: 7181180617231691570
+    second: Aztec Tile Set_48
+  - first:
+      213: -9039774584408041794
+    second: Aztec Tile Set_49
+  - first:
+      213: -2544254277009655415
+    second: Aztec Tile Set_50
+  - first:
+      213: 8373689903241588916
+    second: Aztec Tile Set_51
+  - first:
+      213: 3064378338733144525
+    second: Aztec Tile Set_52
+  - first:
+      213: -4308744741707688352
+    second: Aztec Tile Set_53
+  - first:
+      213: 3412290405539169718
+    second: Aztec Tile Set_54
+  - first:
+      213: 7562976724615117915
+    second: Aztec Tile Set_55
+  - first:
+      213: 4268244913835314042
+    second: Aztec Tile Set_56
+  - first:
+      213: 3688353001711621827
+    second: Aztec Tile Set_57
+  - first:
+      213: -2007822478711026817
+    second: Aztec Tile Set_58
+  - first:
+      213: 4841548906873838453
+    second: Aztec Tile Set_59
+  - first:
+      213: -1642194785801348111
+    second: Aztec Tile Set_60
+  - first:
+      213: -4766243593245950458
+    second: Aztec Tile Set_61
+  - first:
+      213: -3277931837517931119
+    second: Aztec Tile Set_62
+  - first:
+      213: 3754556405744129621
+    second: Aztec Tile Set_63
+  - first:
+      213: -8459603327899915728
+    second: Aztec Tile Set_64
+  - first:
+      213: -551251783863246754
+    second: Aztec Tile Set_65
+  - first:
+      213: -8620019238680479758
+    second: Aztec Tile Set_66
+  - first:
+      213: 7039339247988855340
+    second: Aztec Tile Set_67
+  - first:
+      213: -3881550582473199442
+    second: Aztec Tile Set_68
+  - first:
+      213: -8577527359972599699
+    second: Aztec Tile Set_69
+  - first:
+      213: 443432381447819882
+    second: Aztec Tile Set_70
+  - first:
+      213: -105440414440734102
+    second: Aztec Tile Set_71
+  - first:
+      213: -6864780843724380943
+    second: Aztec Tile Set_72
+  - first:
+      213: -3435772794739794309
+    second: Aztec Tile Set_73
+  - first:
+      213: 4673455092099479723
+    second: Aztec Tile Set_74
+  - first:
+      213: 509525126331147353
+    second: Aztec Tile Set_75
+  - first:
+      213: -5869588524611481743
+    second: Aztec Tile Set_76
+  - first:
+      213: -3391259268393760976
+    second: Aztec Tile Set_77
+  - first:
+      213: -8458417535857566874
+    second: Aztec Tile Set_78
+  - first:
+      213: -5677076582618899912
+    second: Aztec Tile Set_79
+  - first:
+      213: -7874656869585992627
+    second: Aztec Tile Set_80
+  - first:
+      213: -2518364226111447042
+    second: Aztec Tile Set_81
+  - first:
+      213: -5670672237516073077
+    second: Aztec Tile Set_82
+  - first:
+      213: 8953141345294225838
+    second: Aztec Tile Set_83
+  - first:
+      213: -2482527938453319601
+    second: Aztec Tile Set_84
+  - first:
+      213: -4170702836213325414
+    second: Aztec Tile Set_85
+  - first:
+      213: 1166425431853612763
+    second: Aztec Tile Set_86
+  - first:
+      213: 899805429930653527
+    second: Aztec Tile Set_87
+  - first:
+      213: -3621218909856065012
+    second: Aztec Tile Set_88
+  - first:
+      213: -5567675655254037634
+    second: Aztec Tile Set_89
+  - first:
+      213: -552099985222820183
+    second: Aztec Tile Set_90
+  - first:
+      213: 898828510474847951
+    second: Aztec Tile Set_91
+  - first:
+      213: -9104300279601737740
+    second: Aztec Tile Set_92
+  - first:
+      213: 5296503490854842515
+    second: Aztec Tile Set_93
+  - first:
+      213: -3569622807149477449
+    second: Aztec Tile Set_94
+  - first:
+      213: 7610261744145625186
+    second: Aztec Tile Set_95
+  - first:
+      213: -5746453798810612735
+    second: Aztec Tile Set_96
+  - first:
+      213: 4442465396647714986
+    second: Aztec Tile Set_97
+  - first:
+      213: -4529708434971237681
+    second: Aztec Tile Set_98
+  - first:
+      213: 2112567949016054575
+    second: Aztec Tile Set_99
+  - first:
+      213: -2136510607570764990
+    second: Aztec Tile Set_100
+  - first:
+      213: 3388518358710414650
+    second: Aztec Tile Set_101
+  - first:
+      213: -6679537383672959064
+    second: Aztec Tile Set_102
+  - first:
+      213: 8913627094627091445
+    second: Aztec Tile Set_103
+  - first:
+      213: 6154175110096793127
+    second: Aztec Tile Set_104
+  - first:
+      213: -3085687843589722558
+    second: Aztec Tile Set_105
+  - first:
+      213: -7049201109099737109
+    second: Aztec Tile Set_106
+  - first:
+      213: -5408901918468329546
+    second: Aztec Tile Set_107
+  - first:
+      213: -1898715631284392357
+    second: Aztec Tile Set_108
+  - first:
+      213: 4357220729126385536
+    second: Aztec Tile Set_109
+  - first:
+      213: 3770297887666025007
+    second: Aztec Tile Set_110
+  - first:
+      213: -7498247484350717767
+    second: Aztec Tile Set_111
+  - first:
+      213: 5494373456638096571
+    second: Aztec Tile Set_112
+  - first:
+      213: -8343055693505736540
+    second: Aztec Tile Set_113
+  - first:
+      213: -4727061569657381287
+    second: Aztec Tile Set_114
+  - first:
+      213: 5204612282316026776
+    second: Aztec Tile Set_115
+  - first:
+      213: -8066401779511325808
+    second: Aztec Tile Set_116
+  - first:
+      213: 6360700217642947097
+    second: Aztec Tile Set_117
+  - first:
+      213: -3564692180267062564
+    second: Aztec Tile Set_118
+  - first:
+      213: 5889020985492847
+    second: Aztec Face_0
+  - first:
+      213: -1438304627994245043
+    second: Aztec Face_1
+  - first:
+      213: -7301851604751368196
+    second: Aztec Face_2
+  - first:
+      213: 2865356555415351474
+    second: Aztec Face_3
+  - first:
+      213: 8572923894887465318
+    second: Aztec Face_4
+  - first:
+      213: -1797552039231059268
+    second: Aztec Face_5
+  - first:
+      213: -6325905036094454990
+    second: Aztec Face_6
+  - first:
+      213: -4498171550130108820
+    second: Aztec Face_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aztec Face_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334cb0c2eed538a0800000000000000
+      internalID: -6325905036094454990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

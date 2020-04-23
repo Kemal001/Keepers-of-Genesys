@@ -28,7 +28,7 @@ TagManager:
   - Enemy
   - Damageable
   - Post Processing
-  - 
+  - Invisible Wall
   - 
   - 
   - 
@@ -56,6 +56,9 @@ TagManager:
     locked: 0
   - name: Platforms
     uniqueID: 1465821919
+    locked: 0
+  - name: Obelisk
+    uniqueID: 3624858893
     locked: 0
   - name: Enemy
     uniqueID: 4145156691

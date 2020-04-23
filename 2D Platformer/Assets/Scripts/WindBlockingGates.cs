@@ -31,16 +31,17 @@ public class WindBlockingGates : MonoBehaviour
 
     IEnumerator FocusCameraOnGates()
     {
+        Trigger.instance.triggerOn = false;
         CVC.m_Follow = this.transform;
-
-        yield return new WaitForSecondsRealtime(0.5f);
         AudioManager.instance.Play("Earthquake");
+        
+        yield return new WaitForSecondsRealtime(0.5f);
         animator.SetTrigger("isOpen");
-        CameraShake.instance.ShakeElapsedTime = 0.01f;
+        CameraShake.instance.ShakeElapsedTime = 4.5f;
         windArea.enabled = true;
 
         yield return new WaitForSecondsRealtime(4.5f);
         CVC.m_Follow = GameObject.FindWithTag("Player").transform;
-        Trigger.instance.triggerOn = false;
+        
     }
 }

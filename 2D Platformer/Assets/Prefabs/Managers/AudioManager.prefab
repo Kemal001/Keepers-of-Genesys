@@ -55,7 +55,7 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: First Jump
     clip: {fileID: 8300000, guid: d66628aeb12561a4992af4b517687051, type: 3}
-    volume: 0.5
+    volume: 0.1
     pitch: 1
     minDistance: 0
     maxDistance: 0
@@ -64,7 +64,7 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: Second Jump
     clip: {fileID: 8300000, guid: 7dcf5642c4124544fb08540b50430593, type: 3}
-    volume: 0.5
+    volume: 0.1
     pitch: 1
     minDistance: 0
     maxDistance: 0
@@ -304,4 +304,13 @@ MonoBehaviour:
     maxDistance: 0
     spatialBlend: 0
     loop: 0
+    source: {fileID: 0}
+  - name: DrumMusic
+    clip: {fileID: 8300000, guid: 4d6dfdbf12caf1c43948b0fa40ac59ef, type: 3}
+    volume: 0.02
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 1
     source: {fileID: 0}

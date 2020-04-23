@@ -474,7 +474,7 @@ public class PlayerController : MonoBehaviour
         if(isMoving && Input.GetButton("Sprint Run") && Energy.instance.currentEnergy >= 1.0f)
         {
             movementSpeed = 25;
-            Energy.instance.UseEnergy(0.2f);
+            Energy.instance.UseEnergy(0.5f);
             sprintRunning = true;
         }
         else if(isMoving && Input.GetButtonUp("Sprint Run") || Energy.instance.currentEnergy <= 1.0f || !isMoving)

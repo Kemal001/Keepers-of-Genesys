@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 79b42126f1cdce147a22e531f482058f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3706170646725350428
+    second: Summoner_Idle_0
+  - first:
+      213: -1854998936068987483
+    second: Summoner_Idle_1
+  - first:
+      213: -7498267705203531477
+    second: Summoner_Idle_2
+  - first:
+      213: 4846375769039147729
+    second: Summoner_Idle_3
+  - first:
+      213: 2648837451225445878
+    second: Summoner_Idle_4
+  - first:
+      213: 489519132554750592
+    second: Summoner_Idle_5
+  - first:
+      213: 8905677932009506505
+    second: Summoner_Idle_6
+  - first:
+      213: -3917834380062813865
+    second: Summoner_Idle_7
+  - first:
+      213: 5090162087807093606
+    second: Summoner_Idle_8
+  - first:
+      213: 5951491222596822595
+    second: Summoner_Idle_9
+  - first:
+      213: 1920640962473321388
+    second: Summoner_Idle_10
+  - first:
+      213: -5238349712333888860
+    second: Summoner_Idle_11
+  - first:
+      213: 6065383679913620992
+    second: Summoner_Idle_12
+  - first:
+      213: 4142393737823645220
+    second: Summoner_Idle_13
+  - first:
+      213: 7163052766272320202
+    second: Summoner_Idle_14
+  - first:
+      213: 7630477178839751720
+    second: Summoner_Idle_15
+  - first:
+      213: 5805591899608276288
+    second: Summoner_Idle_16
+  - first:
+      213: 2088821251727777347
+    second: Summoner_Idle_17
+  - first:
+      213: 7695948241773630223
+    second: Summoner_Idle_18
+  - first:
+      213: 2538993691799580804
+    second: Summoner_Idle_19
+  - first:
+      213: -8902302672011959313
+    second: Summoner_Idle_20
+  - first:
+      213: 5342519289215392346
+    second: Summoner_Idle_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summoner_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145b0b2196fe6330800000000000000
+      internalID: 3706170646725350428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 19
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a561ecbb48b146e0800000000000000
+      internalID: -1854998936068987483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 19
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b216f88ef3dc0f790800000000000000
+      internalID: -7498267705203531477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 19
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53b04b0af82c420800000000000000
+      internalID: 2648837451225445878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 19
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aeea6be0f1bc600800000000000000
+      internalID: 489519132554750592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 19
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7511b8f836e01a9c0800000000000000
+      internalID: -3917834380062813865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 19
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b07e43373e3a640800000000000000
+      internalID: 5090162087807093606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 19
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a11bc0b4ad47b0800000000000000
+      internalID: -5238349712333888860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 18
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee7ce382dbc7930800000000000000
+      internalID: 4142393737823645220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 18
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac27a091a86486360800000000000000
+      internalID: 7163052766272320202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 18
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d5907c21b919050800000000000000
+      internalID: 5805591899608276288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 18
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0395b8a6208dca60800000000000000
+      internalID: 7695948241773630223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

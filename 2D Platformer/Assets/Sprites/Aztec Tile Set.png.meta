@@ -1,0 +1,1888 @@
+fileFormatVersion: 2
+guid: a31efb80d59eb214a8ccce00d9655a32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9144970067497498656
+    second: Aztec Tile Set_0
+  - first:
+      213: -7322465494985602104
+    second: Aztec Tile Set_1
+  - first:
+      213: 5350261617460332649
+    second: Aztec Tile Set_2
+  - first:
+      213: -5859798753623535580
+    second: Aztec Tile Set_3
+  - first:
+      213: 3059417756783308960
+    second: Aztec Tile Set_4
+  - first:
+      213: -8764902315209393267
+    second: Aztec Tile Set_5
+  - first:
+      213: -4067968426487419784
+    second: Aztec Tile Set_6
+  - first:
+      213: -1751578428616366372
+    second: Aztec Tile Set_7
+  - first:
+      213: -8496923198459915826
+    second: Aztec Tile Set_8
+  - first:
+      213: 3911046371771266152
+    second: Aztec Tile Set_9
+  - first:
+      213: 7948195221457199471
+    second: Aztec Tile Set_10
+  - first:
+      213: 291623857864168448
+    second: Aztec Tile Set_11
+  - first:
+      213: -1782302564007226290
+    second: Aztec Tile Set_12
+  - first:
+      213: -936133877572372582
+    second: Aztec Tile Set_13
+  - first:
+      213: -869839079357752397
+    second: Aztec Tile Set_14
+  - first:
+      213: 8420123327741029116
+    second: Aztec Tile Set_15
+  - first:
+      213: -4462837737697023013
+    second: Aztec Tile Set_16
+  - first:
+      213: 3098250660658378795
+    second: Aztec Tile Set_17
+  - first:
+      213: 6534368267066173459
+    second: Aztec Tile Set_18
+  - first:
+      213: -7581271672926814873
+    second: Aztec Tile Set_19
+  - first:
+      213: 1331806609143320711
+    second: Aztec Tile Set_20
+  - first:
+      213: -4436054866897766200
+    second: Aztec Tile Set_21
+  - first:
+      213: 4076659586428483952
+    second: Aztec Tile Set_22
+  - first:
+      213: -7529446229878816995
+    second: Aztec Tile Set_23
+  - first:
+      213: 3011558557757706764
+    second: Aztec Tile Set_24
+  - first:
+      213: -322481297912720273
+    second: Aztec Tile Set_25
+  - first:
+      213: 8453487227716171116
+    second: Aztec Tile Set_26
+  - first:
+      213: 6941149288590042742
+    second: Aztec Tile Set_27
+  - first:
+      213: -2935970971052969275
+    second: Aztec Tile Set_28
+  - first:
+      213: -1785908427041805868
+    second: Aztec Tile Set_29
+  - first:
+      213: -7067364899845022715
+    second: Aztec Tile Set_30
+  - first:
+      213: -7524572592305224456
+    second: Aztec Tile Set_31
+  - first:
+      213: 9071846388417852489
+    second: Aztec Tile Set_32
+  - first:
+      213: -5746157613566831019
+    second: Aztec Tile Set_33
+  - first:
+      213: -6719988639116142600
+    second: Aztec Tile Set_34
+  - first:
+      213: 5783412320732917007
+    second: Aztec Tile Set_35
+  - first:
+      213: 2032388144429703370
+    second: Aztec Tile Set_36
+  - first:
+      213: 7123592500775285861
+    second: Aztec Tile Set_37
+  - first:
+      213: -5783216585290447828
+    second: Aztec Tile Set_38
+  - first:
+      213: 804875346939549467
+    second: Aztec Tile Set_39
+  - first:
+      213: -800910237625837725
+    second: Aztec Tile Set_40
+  - first:
+      213: -81050404886125940
+    second: Aztec Tile Set_41
+  - first:
+      213: 4516319142724181299
+    second: Aztec Tile Set_42
+  - first:
+      213: -7491931685109979229
+    second: Aztec Tile Set_43
+  - first:
+      213: -4972754001052485409
+    second: Aztec Tile Set_44
+  - first:
+      213: -7085032288355460727
+    second: Aztec Tile Set_45
+  - first:
+      213: -5347421690021476302
+    second: Aztec Tile Set_46
+  - first:
+      213: -143492682587472092
+    second: Aztec Tile Set_47
+  - first:
+      213: 7181180617231691570
+    second: Aztec Tile Set_48
+  - first:
+      213: -9039774584408041794
+    second: Aztec Tile Set_49
+  - first:
+      213: -2544254277009655415
+    second: Aztec Tile Set_50
+  - first:
+      213: 8373689903241588916
+    second: Aztec Tile Set_51
+  - first:
+      213: 3064378338733144525
+    second: Aztec Tile Set_52
+  - first:
+      213: -4308744741707688352
+    second: Aztec Tile Set_53
+  - first:
+      213: 3412290405539169718
+    second: Aztec Tile Set_54
+  - first:
+      213: 7562976724615117915
+    second: Aztec Tile Set_55
+  - first:
+      213: 4268244913835314042
+    second: Aztec Tile Set_56
+  - first:
+      213: 3688353001711621827
+    second: Aztec Tile Set_57
+  - first:
+      213: -2007822478711026817
+    second: Aztec Tile Set_58
+  - first:
+      213: 4841548906873838453
+    second: Aztec Tile Set_59
+  - first:
+      213: -1642194785801348111
+    second: Aztec Tile Set_60
+  - first:
+      213: -4766243593245950458
+    second: Aztec Tile Set_61
+  - first:
+      213: -3277931837517931119
+    second: Aztec Tile Set_62
+  - first:
+      213: 3754556405744129621
+    second: Aztec Tile Set_63
+  - first:
+      213: -8459603327899915728
+    second: Aztec Tile Set_64
+  - first:
+      213: -551251783863246754
+    second: Aztec Tile Set_65
+  - first:
+      213: -8620019238680479758
+    second: Aztec Tile Set_66
+  - first:
+      213: 7039339247988855340
+    second: Aztec Tile Set_67
+  - first:
+      213: -3881550582473199442
+    second: Aztec Tile Set_68
+  - first:
+      213: -8577527359972599699
+    second: Aztec Tile Set_69
+  - first:
+      213: 443432381447819882
+    second: Aztec Tile Set_70
+  - first:
+      213: -105440414440734102
+    second: Aztec Tile Set_71
+  - first:
+      213: -6864780843724380943
+    second: Aztec Tile Set_72
+  - first:
+      213: -3435772794739794309
+    second: Aztec Tile Set_73
+  - first:
+      213: 4673455092099479723
+    second: Aztec Tile Set_74
+  - first:
+      213: 509525126331147353
+    second: Aztec Tile Set_75
+  - first:
+      213: -5869588524611481743
+    second: Aztec Tile Set_76
+  - first:
+      213: -3391259268393760976
+    second: Aztec Tile Set_77
+  - first:
+      213: -8458417535857566874
+    second: Aztec Tile Set_78
+  - first:
+      213: -5677076582618899912
+    second: Aztec Tile Set_79
+  - first:
+      213: -7874656869585992627
+    second: Aztec Tile Set_80
+  - first:
+      213: -2518364226111447042
+    second: Aztec Tile Set_81
+  - first:
+      213: -5670672237516073077
+    second: Aztec Tile Set_82
+  - first:
+      213: 8953141345294225838
+    second: Aztec Tile Set_83
+  - first:
+      213: -2482527938453319601
+    second: Aztec Tile Set_84
+  - first:
+      213: -4170702836213325414
+    second: Aztec Tile Set_85
+  - first:
+      213: 1166425431853612763
+    second: Aztec Tile Set_86
+  - first:
+      213: 899805429930653527
+    second: Aztec Tile Set_87
+  - first:
+      213: -3621218909856065012
+    second: Aztec Tile Set_88
+  - first:
+      213: -5567675655254037634
+    second: Aztec Tile Set_89
+  - first:
+      213: -552099985222820183
+    second: Aztec Tile Set_90
+  - first:
+      213: 898828510474847951
+    second: Aztec Tile Set_91
+  - first:
+      213: -9104300279601737740
+    second: Aztec Tile Set_92
+  - first:
+      213: 5296503490854842515
+    second: Aztec Tile Set_93
+  - first:
+      213: -3569622807149477449
+    second: Aztec Tile Set_94
+  - first:
+      213: 7610261744145625186
+    second: Aztec Tile Set_95
+  - first:
+      213: -5746453798810612735
+    second: Aztec Tile Set_96
+  - first:
+      213: 4442465396647714986
+    second: Aztec Tile Set_97
+  - first:
+      213: -4529708434971237681
+    second: Aztec Tile Set_98
+  - first:
+      213: 2112567949016054575
+    second: Aztec Tile Set_99
+  - first:
+      213: -2136510607570764990
+    second: Aztec Tile Set_100
+  - first:
+      213: 3388518358710414650
+    second: Aztec Tile Set_101
+  - first:
+      213: -6679537383672959064
+    second: Aztec Tile Set_102
+  - first:
+      213: 8913627094627091445
+    second: Aztec Tile Set_103
+  - first:
+      213: 6154175110096793127
+    second: Aztec Tile Set_104
+  - first:
+      213: -3085687843589722558
+    second: Aztec Tile Set_105
+  - first:
+      213: -7049201109099737109
+    second: Aztec Tile Set_106
+  - first:
+      213: -5408901918468329546
+    second: Aztec Tile Set_107
+  - first:
+      213: -1898715631284392357
+    second: Aztec Tile Set_108
+  - first:
+      213: 4357220729126385536
+    second: Aztec Tile Set_109
+  - first:
+      213: 3770297887666025007
+    second: Aztec Tile Set_110
+  - first:
+      213: -7498247484350717767
+    second: Aztec Tile Set_111
+  - first:
+      213: 5494373456638096571
+    second: Aztec Tile Set_112
+  - first:
+      213: -8343055693505736540
+    second: Aztec Tile Set_113
+  - first:
+      213: -4727061569657381287
+    second: Aztec Tile Set_114
+  - first:
+      213: 5204612282316026776
+    second: Aztec Tile Set_115
+  - first:
+      213: -8066401779511325808
+    second: Aztec Tile Set_116
+  - first:
+      213: 6360700217642947097
+    second: Aztec Tile Set_117
+  - first:
+      213: -3564692180267062564
+    second: Aztec Tile Set_118
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aztec Tile Set_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74b3dfc2a861180800000000000000
+      internalID: -9144970067497498656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb045bad60616a90800000000000000
+      internalID: -7322465494985602104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968412c1892ff3a40800000000000000
+      internalID: 5350261617460332649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201ef28410ddaea0800000000000000
+      internalID: -5859798753623535580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a077948d3c357a20800000000000000
+      internalID: 3059417756783308960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bf1f268cfcc5680800000000000000
+      internalID: -8764902315209393267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c66b5e44cab87c0800000000000000
+      internalID: -4067968426487419784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a51e03b421b7e0800000000000000
+      internalID: -1751578428616366372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b18914f3d64630800000000000000
+      internalID: 3911046371771266152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61e96c4179ad4e60800000000000000
+      internalID: 7948195221457199471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004d5088a5e0c0400800000000000000
+      internalID: 291623857864168448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d416d24df347e0800000000000000
+      internalID: -1782302564007226290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f61db23f2203f0800000000000000
+      internalID: -936133877572372582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbd02747f5bde3f0800000000000000
+      internalID: -869839079357752397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaebfa0e894ad470800000000000000
+      internalID: 8420123327741029116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6c5209b0d012c0800000000000000
+      internalID: -4462837737697023013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2879a58f823ffa20800000000000000
+      internalID: 3098250660658378795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318601e715dbeaa50800000000000000
+      internalID: 6534368267066173459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78051870e078b7210800000000000000
+      internalID: 1331806609143320711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87a6e0a97ff62c0800000000000000
+      internalID: -4436054866897766200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6766d5f808ae35060800000000000000
+      internalID: 6941149288590042742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2778f05f55147d0800000000000000
+      internalID: -2935970971052969275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9ebcc6fbd2737e0800000000000000
+      internalID: -1785908427041805868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c5cae611dabed90800000000000000
+      internalID: -7067364899845022715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9447e8eb93ca5ed70800000000000000
+      internalID: 9071846388417852489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55651fb481c8140b0800000000000000
+      internalID: -5746157613566831019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f752decfedcdb2a0800000000000000
+      internalID: -6719988639116142600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d27e62ddec24050800000000000000
+      internalID: 5783412320732917007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564f85513a51cd260800000000000000
+      internalID: 7123592500775285861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248d9e0823edbfa0800000000000000
+      internalID: -5783216585290447828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b171dc61ddd7b2b00800000000000000
+      internalID: 804875346939549467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367965dd16892e4f0800000000000000
+      internalID: -800910237625837725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1f52f4503dae30800000000000000
+      internalID: 4516319142724181299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7a68b83df470890800000000000000
+      internalID: -7491931685109979229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd83dd3359a3dfab0800000000000000
+      internalID: -4972754001052485409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989566efba8ecad90800000000000000
+      internalID: -7085032288355460727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556db85982dda1430800000000000000
+      internalID: 3754556405744129621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_64
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a20db1893799a80800000000000000
+      internalID: -8459603327899915728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e7095c6f8958f0800000000000000
+      internalID: -551251783863246754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ba695c2a8f5880800000000000000
+      internalID: -8620019238680479758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2257d100c1c0b160800000000000000
+      internalID: 7039339247988855340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_68
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea079f18f46f12ac0800000000000000
+      internalID: -3881550582473199442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6893a1df4086f880800000000000000
+      internalID: -8577527359972599699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_70
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625a1ac663672600800000000000000
+      internalID: 443432381447819882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624a407086698ef0800000000000000
+      internalID: -105440414440734102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4e6ec91366bb0a0800000000000000
+      internalID: -6864780843724380943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e5590c8dea150d0800000000000000
+      internalID: -3435772794739794309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_74
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8745e25a27bd040800000000000000
+      internalID: 4673455092099479723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954aa1f1762321700800000000000000
+      internalID: 509525126331147353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_76
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fc2d4d5580b8ea0800000000000000
+      internalID: -5869588524611481743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037832eb9a3dfe0d0800000000000000
+      internalID: -3391259268393760976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_78
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b5645d01aad9a80800000000000000
+      internalID: -8458417535857566874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_79
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83adf423de8f631b0800000000000000
+      internalID: -5677076582618899912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_80
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44cc308c4997b290800000000000000
+      internalID: -7874656869585992627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_81
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff53974419fc0dd0800000000000000
+      internalID: -2518364226111447042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_82
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875f2df4a9bd41b0800000000000000
+      internalID: -5670672237516073077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_83
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea110262e92ff3c70800000000000000
+      internalID: 8953141345294225838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_84
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d1833ef94c8dd0800000000000000
+      internalID: -2482527938453319601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_85
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916ac72edfae16c0800000000000000
+      internalID: -4170702836213325414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdebd9210c9ff2010800000000000000
+      internalID: 1166425431853612763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_87
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757fbf96540cc7c00800000000000000
+      internalID: 899805429930653527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_88
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1a186698debdc0800000000000000
+      internalID: -3621218909856065012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_89
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b2ef78d74abb2b0800000000000000
+      internalID: -5567675655254037634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_90
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae9b441dfb8658f0800000000000000
+      internalID: -552099985222820183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_91
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c8d0a4c7497c00800000000000000
+      internalID: 898828510474847951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_92
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff49d1e12707a180800000000000000
+      internalID: -9104300279601737740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_93
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390f404ecd5f08940800000000000000
+      internalID: 5296503490854842515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec Tile Set_94
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b109b538f6267ec0800000000000000
+      internalID: -3569622807149477449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
