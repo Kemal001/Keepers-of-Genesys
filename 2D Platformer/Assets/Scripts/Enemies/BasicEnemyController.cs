@@ -55,7 +55,7 @@ public class BasicEnemyController : MonoBehaviour
         currentHealth,
         knockbackStartTime;
 
-    private float[] attackDetails = new float[2];
+    private AttackDetails attackDetails;
 
     private int 
         facingDirection,
@@ -189,13 +189,13 @@ public class BasicEnemyController : MonoBehaviour
 
     //--OTHER FUNCTIONS-----------------------------------------------------------------------------------------------------------------
 
-    private void Damage(float[] attackDetails)
+    private void Damage(AttackDetails attackDetails)
     {
-        currentHealth -= attackDetails[0];
+        currentHealth -= attackDetails.damageAmount;
 
         Instantiate(hitParticle, alive.transform.position, Quaternion.Euler(0.0f, 0.0f, Random.Range(0.0f, 360.0f)));
 
-        if(attackDetails[1] > alive.transform.position.x)
+        if(attackDetails.position.x > alive.transform.position.x)
         {
             damageDirection = -1;
         }

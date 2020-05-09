@@ -8,9 +8,9 @@ public class CameraShake : MonoBehaviour
 {
     public static CameraShake instance;
 
-    public float ShakeDuration = 0.3f;          // Time the Camera Shake effect will last
-    public float ShakeAmplitude = 1.2f;         // Cinemachine Noise Profile Parameter
-    public float ShakeFrequency = 2.0f;         // Cinemachine Noise Profile Parameter
+    public float ShakeDuration = 0.3f;                                // Time the Camera Shake effect will last
+    public float ShakeAmplitude = 5.0f;    //initial value = 1.2f     // Cinemachine Noise Profile Parameter
+    public float ShakeFrequency = 5.0f;    //initial value = 2.0f     // Cinemachine Noise Profile Parameter
 
     [HideInInspector]
     public float ShakeElapsedTime = 0f;

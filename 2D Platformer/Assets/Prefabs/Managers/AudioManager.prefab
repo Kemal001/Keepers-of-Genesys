@@ -314,3 +314,39 @@ MonoBehaviour:
     spatialBlend: 0
     loop: 1
     source: {fileID: 0}
+  - name: Alert
+    clip: {fileID: 8300000, guid: 4b9abc6dc793df642b1ee0f300bef4be, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Healing Sound
+    clip: {fileID: 8300000, guid: ebce166bc53c69c47989be42d662ed53, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Switch Arrows
+    clip: {fileID: 8300000, guid: b7277da242271bb428c7b73452f5f6b0, type: 3}
+    volume: 1
+    pitch: 2
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Explosion
+    clip: {fileID: 8300000, guid: 6b8c94b74102ef64ab7e9f002d0d3e46, type: 3}
+    volume: 1
+    pitch: 1
+    minDistance: 0
+    maxDistance: 0
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}

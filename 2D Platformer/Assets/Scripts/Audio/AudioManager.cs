@@ -51,12 +51,4 @@ public class AudioManager : MonoBehaviour
         }
         s.source.Play();
     }
-    private void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.Escape))
-        {
-            Debug.Log("Quiting game...");
-            Application.Quit();
-        }
-    }
 }

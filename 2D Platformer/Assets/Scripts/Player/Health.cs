@@ -11,9 +11,8 @@ public class Health : MonoBehaviour
 
     public HealthBar healthBar;
 
-    public int maxHealth = 100;
-    [SerializeField]
-    private int currentHealth;
+    public float maxHealth = 100;
+    public float currentHealth;
 
     public GameManager GM;
 
@@ -45,13 +44,15 @@ public class Health : MonoBehaviour
         {
             Die();
         }
+
+        healthBar.SetHealth(currentHealth);
     }
     public void Respawn()
     {
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
     }
-    public void TakeDamage(int damage)
+    public void TakeDamage(float damage)
     {
         currentHealth -= damage;
         Debug.Log(currentHealth);

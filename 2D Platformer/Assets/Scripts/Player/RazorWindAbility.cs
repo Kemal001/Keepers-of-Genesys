@@ -19,10 +19,10 @@ public class RazorWindAbility : MonoBehaviour
 
     private void Update()
     {
-        if(Input.GetButtonDown("Razor Wind")/* && Energy.instance.currentEnergy >= 100*/)
+        if(Input.GetButtonDown("Razor Wind") && Energy.instance.currentEnergy >= 100)
         {
             animator.SetBool("RazorWind", true);
-            //Energy.instance.currentEnergy -= Energy.instance.currentEnergy;
+            Energy.instance.UseEnergy(100f);
         }
     }
 

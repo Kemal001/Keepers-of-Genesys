@@ -14,6 +14,7 @@ TagManager:
   - Spikes
   - EnergyBar
   - Spear
+  - Fire Arrow
   layers:
   - Default
   - TransparentFX
@@ -29,8 +30,8 @@ TagManager:
   - Damageable
   - Post Processing
   - Invisible Wall
-  - 
-  - 
+  - Collectables
+  - Explosives
   - 
   - 
   - 
@@ -77,4 +78,10 @@ TagManager:
     locked: 0
   - name: Particles
     uniqueID: 2645152803
+    locked: 0
+  - name: UI
+    uniqueID: 3002769711
+    locked: 0
+  - name: Abilities
+    uniqueID: 1737251251
     locked: 0

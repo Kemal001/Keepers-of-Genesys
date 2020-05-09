@@ -363,7 +363,7 @@ MonoBehaviour:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_LightVolumeOpacity: 0
-  m_ApplyToSortingLayers: 23d4a99d
+  m_ApplyToSortingLayers: 23d4a99db3598c67
   m_LightCookieSprite: {fileID: 0}
   m_UseNormalMap: 0
   m_LightOrder: 0
@@ -42286,7 +42286,7 @@ Transform:
   - {fileID: 289150268}
   - {fileID: 552029413}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1507561114
 PrefabInstance:
@@ -42612,7 +42612,7 @@ PrefabInstance:
     - target: {fileID: 398380646080431813, guid: 1f20444fe85b7654dbf5e0645aecc5cb,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 398380646080431816, guid: 1f20444fe85b7654dbf5e0645aecc5cb,
         type: 3}

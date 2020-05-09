@@ -89,6 +89,9 @@ public class PlayerController : MonoBehaviour
     public Transform ledgeCheck;
     public Transform enemyCheck;
 
+    public ParticleSystem dust;
+    public ParticleSystem wallSlidingDust;
+
     public LayerMask whatIsGround;
     public LayerMask whatIsEnemy;
 
@@ -124,6 +127,7 @@ public class PlayerController : MonoBehaviour
         CheckJump();
         CheckLedgeClimb();
         CheckDash();
+        CheckKnockback();
         SprintRun();
     }
 
@@ -417,6 +421,7 @@ public class PlayerController : MonoBehaviour
     {
         if (canNormalJump)
         {
+            CreateDust();
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
             amountOfJumpsLeft--;
             jumpTimer = 0;
@@ -462,6 +467,7 @@ public class PlayerController : MonoBehaviour
 
         if(isWallSliding)
         {
+            CreateWallSlidingDust();
             if(rb.velocity.y < -wallSlideSpeed)
             {
                 rb.velocity = new Vector2(rb.velocity.x, -wallSlideSpeed);
@@ -498,10 +504,21 @@ public class PlayerController : MonoBehaviour
     {
         if(!isWallSliding && canFlip && !knockback)
         {
+            CreateDust();
             facingDirection *= -1;
             isFasingRight = !isFasingRight;
             transform.Rotate(0.0f, 180.0f, 0.0f);
         }
+    }
+
+    private void CreateDust()
+    {
+        dust.Play();
+    }
+
+    private void CreateWallSlidingDust()
+    {
+        wallSlidingDust.Play();
     }
 
     private void OnDrawGizmos()

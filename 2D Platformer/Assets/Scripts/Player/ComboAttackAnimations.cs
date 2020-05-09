@@ -29,11 +29,16 @@ public class ComboAttackAnimations : MonoBehaviour
     private float lastClickTime = 0f;
     public float maxComboDelay = 0.9f;
 
-    private float[] attackDetails = new float[2];
+    private AttackDetails attackDetails;
+
+    private PlayerController PC;
+    private Health playerHealth;
 
     private void Start()
     {
         animator = GetComponent<Animator>();
+        PC = GetComponent<PlayerController>();
+        playerHealth = GetComponent<Health>();
     }
 
     private void Update()
@@ -48,8 +53,8 @@ public class ComboAttackAnimations : MonoBehaviour
         {
             Collider2D[] detectedObjects = Physics2D.OverlapCircleAll(dashSliceArea.position, dashSliceAreaRadius, whatIsDamageable);
 
-            attackDetails[0] = dashSliceDamage;
-            attackDetails[1] = transform.position.x;
+            attackDetails.damageAmount = dashSliceDamage;
+            attackDetails.position = transform.position;
 
             foreach (Collider2D collider in detectedObjects)
             {
@@ -124,8 +129,8 @@ public class ComboAttackAnimations : MonoBehaviour
 
         energyToGain = Random.Range(1, 3);
 
-        attackDetails[0] = attack1Damage;
-        attackDetails[1] = transform.position.x;
+        attackDetails.damageAmount = attack1Damage;
+        attackDetails.position = transform.position;
 
         foreach (Collider2D collider in detectedObjects)
         {
@@ -141,8 +146,8 @@ public class ComboAttackAnimations : MonoBehaviour
 
         energyToGain = Random.Range(1, 5);
 
-        attackDetails[0] = attack2Damage;
-        attackDetails[1] = transform.position.x;
+        attackDetails.damageAmount = attack2Damage;
+        attackDetails.position = transform.position;
 
         foreach (Collider2D collider in detectedObjects)
         {
@@ -158,8 +163,8 @@ public class ComboAttackAnimations : MonoBehaviour
 
         energyToGain = Random.Range(3, 7);
 
-        attackDetails[0] = attack3Damage;
-        attackDetails[1] = transform.position.x;
+        attackDetails.damageAmount = attack3Damage;
+        attackDetails.position = transform.position;
 
         foreach (Collider2D collider in detectedObjects)
         {
@@ -167,6 +172,24 @@ public class ComboAttackAnimations : MonoBehaviour
             //Energy.instance.GainEnergy(energyToGain);
             AudioManager.instance.Play("Attack3HitBody");
         }
+    }
+
+    private void Damage(AttackDetails attackDetails)
+    {
+        int direction;
+
+        playerHealth.TakeDamage(attackDetails.damageAmount);
+
+        if (attackDetails.position.x < transform.position.x)
+        {
+            direction = 1;
+        }
+        else
+        {
+            direction = -1;
+        }
+
+        PC.Knockback(direction);
     }
 
     private void OnDrawGizmos()

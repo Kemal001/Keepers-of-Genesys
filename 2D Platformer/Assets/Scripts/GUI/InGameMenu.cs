@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class InGameMenu : MonoBehaviour
 {
@@ -10,8 +11,8 @@ public class InGameMenu : MonoBehaviour
 
     public GameObject gameUI;
     public GameObject pauseMenuUI;
-
-    //public Animator animator;
+    public GameObject ps4Controls;
+    public GameObject keyboardControls;
 
     private void Awake()
     {
@@ -30,14 +31,14 @@ public class InGameMenu : MonoBehaviour
     {
         if (Input.GetButtonDown("PauseMenu") || Input.GetKeyDown(KeyCode.Escape))
         {
-            if (GameIsPaused)
-            {
-                Resume();
-            }
-            else
+            if (!GameIsPaused)
             {
                 Pause();
             }
+            //else
+            //{
+            //    Pause();
+            //}
         }
     }
 
@@ -46,7 +47,6 @@ public class InGameMenu : MonoBehaviour
         pauseMenuUI.SetActive(false);
         gameUI.SetActive(true);
         Time.timeScale = 1f;
-        //animator.SetBool("IsPaused", false);
         GameIsPaused = false;
     }
 
@@ -55,14 +55,31 @@ public class InGameMenu : MonoBehaviour
         gameUI.SetActive(false);
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
-        //animator.SetBool("IsPaused", true);
         GameIsPaused = true;
     }
 
-    public void MainMenu()
+    public void PS4Controls()
     {
-        Time.timeScale = 1f;
-        //SceneManager.LoadScene("MainMenu");
+        pauseMenuUI.SetActive(false);
+        ps4Controls.SetActive(true);
+    }
+
+    public void KeyboardControls()
+    {
+        pauseMenuUI.SetActive(false);
+        keyboardControls.SetActive(true);
+    }
+
+    public void EscapeFromPS4Controls()
+    {
+        ps4Controls.SetActive(false);
+        pauseMenuUI.SetActive(true);
+    }
+
+    public void EscapeFromKeyboardControls()
+    {
+        keyboardControls.SetActive(false);
+        pauseMenuUI.SetActive(true);
     }
 
     public void QuitGame()

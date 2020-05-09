@@ -9,11 +9,6 @@ public class CooldownUI : MonoBehaviour
     public float cooldownTime;
     bool isCooldown;
 
-    private void Start()
-    {
-        cooldownTime = PlayerController.instance.dashCoolDown;
-    }
-
     private void Update()
     {
         if(PlayerController.instance.isDashing)

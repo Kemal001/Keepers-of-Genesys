@@ -1,14 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class ArrowShooting : MonoBehaviour
 {
     public static ArrowShooting instance;
 
     public Animator animator;
+    public Animator uiAnimator;
 
     public GameObject arrowPrefab;
+    public GameObject fireArrowPrefab;
+    public GameObject currentArrow;
+    public ParticleSystem fireArrowParticles;
+    public ParticleSystem fireArrowUIParticles;
     public Transform arrowFirePoint;
 
     public float arrowSpeed = 10f;
@@ -23,6 +29,10 @@ public class ArrowShooting : MonoBehaviour
     public int delay = 1;
     protected float Timer;
 
+    [Space]
+    [Header("UI Text")]
+    public TextMeshProUGUI arrowUIText;
+
     private void Awake()
     {
         instance = this;
@@ -31,23 +41,61 @@ public class ArrowShooting : MonoBehaviour
     private void Start()
     {
         currentNumberOfArrows = initialNumberOfArrows;
+        currentArrow = arrowPrefab;
     }
 
     private void Update()
     {
+        ChangeArrows();
         BowPicked();
         ChargingBow();
 
-        if(currentNumberOfArrows < 10)
-        {
-            Timer += Time.deltaTime;
+        //if(currentNumberOfArrows < 10)
+        //{
+        //    Timer += Time.deltaTime;
 
-            if(Timer >= delay)
-            {
-                Timer = 0f;
-                currentNumberOfArrows += 1;
-            }
+        //    if(Timer >= delay)
+        //    {
+        //        Timer = 0f;
+        //        currentNumberOfArrows += 1;
+        //    }
+        //}
+
+        if(currentArrow == arrowPrefab)
+        {
+            fireArrowParticles.Stop();
         }
+
+        arrowUIText.text = currentNumberOfArrows.ToString();
+    }
+
+    private void ChangeArrows()
+    {
+        if((Input.GetButtonDown("Change Arrow") || Input.GetAxisRaw("Change Arrow") > 0) && currentArrow == arrowPrefab)
+        {
+            currentArrow = fireArrowPrefab;
+            fireArrowUIParticles.Play();
+            AudioManager.instance.Play("Switch Arrows");
+        }
+        else if((Input.GetButtonDown("Change Arrow") || Input.GetAxisRaw("Change Arrow") > 0) && currentArrow == fireArrowPrefab)
+        {
+            currentArrow = arrowPrefab;
+            fireArrowUIParticles.Stop();
+            AudioManager.instance.Play("Switch Arrows");
+        }
+    }
+
+    public void PlayFireArrowParticles()
+    {
+        if (currentArrow == fireArrowPrefab)
+        {
+            fireArrowParticles.Play();
+        }
+    }
+
+    public void StopFireArrowParticles()
+    {
+        fireArrowParticles.Stop();
     }
 
     private void BowPicked()
@@ -63,6 +111,11 @@ public class ArrowShooting : MonoBehaviour
             animator.SetBool("BowPicked", false);
             bowPicked = false;
         }
+
+        if(Input.GetButtonDown("Bow Picked") && currentNumberOfArrows <= 0)
+        {
+            uiAnimator.SetTrigger("outOfArrows");
+        }
     }
 
     private void ChargingBow()
@@ -77,12 +130,17 @@ public class ArrowShooting : MonoBehaviour
             animator.SetBool("isChargingBow", false);
             animator.SetBool("isFiringArrow", true);
         }
+
+        if (bowPicked && Input.GetButtonDown("Fire Arrow") && currentNumberOfArrows <= 0)
+        {
+            uiAnimator.SetTrigger("outOfArrows");
+        }
     }
 
     public void FiringArrow()
     {
         animator.SetBool("isFiringArrow", false);
-        GameObject arrow = Instantiate(arrowPrefab, arrowFirePoint.position, arrowFirePoint.rotation);
+        GameObject arrow = Instantiate(currentArrow, arrowFirePoint.position, arrowFirePoint.rotation);
         arrow.GetComponent<Rigidbody2D>().velocity = arrowFirePoint.right * arrowSpeed;
 
         currentNumberOfArrows--;

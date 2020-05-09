@@ -47,7 +47,7 @@ MonoBehaviour:
   groundCheckDistance: 0.5
   wallCheckDistance: 0.1
   movementSpeed: 3
-  maxHealth: 30
+  maxHealth: 10
   knockbackDuration: 0.1
   lastTouchDamageTime: 0
   touchDamageCooldown: 0
@@ -73,8 +73,7 @@ MonoBehaviour:
   minLootCount: 3
   maxLootCount: 5
   lootDrop:
-  - {fileID: 3443601208766837843, guid: 687d10229f21e814081e975363079f4d, type: 3}
-  - {fileID: 705008994326214231, guid: f1c149d83579cee47aa1774fd822d7b0, type: 3}
+  - {fileID: 5678873043762662665, guid: e9a05ee73ad99bb42acdbefa431d8430, type: 3}
 --- !u!1 &2097351329955265658
 GameObject:
   m_ObjectHideFlags: 0
@@ -178,7 +177,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -149810605
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 10
   m_Sprite: {fileID: 4944230376442633554, guid: 4a6a0b87a0fc04648a5422032c80692f,
     type: 3}
@@ -208,7 +207,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 8
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 97da43152e55ceb4cb370b2627e2559c, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1

@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3443601208766837842}
   - component: {fileID: 3443601208766837854}
   - component: {fileID: 8473125164548186483}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Coin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 787343355
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 6905159096273010811, guid: f1fed119b0dbdb24e8e13e51b0e737f8,
     type: 3}
@@ -165,7 +165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4184826679967103497}
   - component: {fileID: 1433072718456831688}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Point Light 2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}

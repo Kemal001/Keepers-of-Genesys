@@ -10,7 +10,7 @@ public class RazorWind : MonoBehaviour
     public LayerMask whatToHit;
     public LayerMask whatIsDamageable;
 
-    private float[] attackDetails = new float[2];
+    private AttackDetails attackDetails;
 
     public ParticleSystem particles;
 
@@ -28,8 +28,8 @@ public class RazorWind : MonoBehaviour
 
         if ((whatIsDamageable & 1 << collision.gameObject.layer) == 1 << collision.gameObject.layer)
         {
-            attackDetails[0] = attackDamage;
-            attackDetails[1] = transform.position.x;
+            attackDetails.damageAmount = attackDamage;
+            attackDetails.position = transform.position;
 
             collision.transform.parent.SendMessage("Damage", attackDetails);
         }
