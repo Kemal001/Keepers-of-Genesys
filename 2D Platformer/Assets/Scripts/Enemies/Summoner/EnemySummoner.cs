@@ -14,6 +14,7 @@ public class EnemySummoner : MonoBehaviour
     public int maxAmountOfSkulls = 5;
 
     public bool facingRight = false;
+    public bool playerDetected;
 
     private void Start()
     {
@@ -36,6 +37,22 @@ public class EnemySummoner : MonoBehaviour
         }
     }
 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Player"))
+        {
+            playerDetected = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            playerDetected = false;
+        }
+    }
+
     private void SummoningAnimation()
     {
         animator.SetBool("summon", true);
@@ -43,9 +60,10 @@ public class EnemySummoner : MonoBehaviour
 
     public void SummonSkulls()
     {
-        if(target != null)
+        if(playerDetected)
         {
             GameObject skulls = Instantiate(skullPrefab, skullSpawnPoint.position, skullSpawnPoint.rotation);
+            Destroy(skulls, 4f);
         }
     }
 

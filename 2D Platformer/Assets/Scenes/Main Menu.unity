@@ -7982,7 +7982,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 35
-      m_TileSpriteIndex: 35
+      m_TileSpriteIndex: 41
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -9649,9 +9649,8 @@ Tilemap:
   - m_RefCount: 4
     m_Data: {fileID: -1251602276485512433, guid: 750db79e77292544eb756e2f2caa4687,
       type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: -7362104678126100586, guid: 750db79e77292544eb756e2f2caa4687,
-      type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: -4552243253766756928, guid: 750db79e77292544eb756e2f2caa4687,
       type: 3}
@@ -9666,8 +9665,9 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: -6919714753090072956, guid: 750db79e77292544eb756e2f2caa4687,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: -7362104678126100586, guid: 750db79e77292544eb756e2f2caa4687,
+      type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 7945809449679137099, guid: 750db79e77292544eb756e2f2caa4687,
       type: 3}
@@ -10356,7 +10356,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1894787327
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10371,10 +10371,10 @@ RectTransform:
   m_Father: {fileID: 2059375578}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -250}
-  m_SizeDelta: {x: 991.6784, y: 156.8}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -357, y: -259}
+  m_SizeDelta: {x: 543.27295, y: 156.79999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1894787328
 MonoBehaviour:
@@ -10407,8 +10407,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278228223
+  m_fontColor: {r: 1, g: 0.58203405, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -10443,7 +10443,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 11
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -10472,7 +10472,7 @@ MonoBehaviour:
     spaceCount: 3
     wordCount: 3
     linkCount: 0
-    lineCount: 1
+    lineCount: 2
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0

@@ -11,4 +11,14 @@ public class Boulder : MonoBehaviour
             Health.instance.TakeDamage(100);
         }
     }
+
+    private void OnBecameVisible()
+    {
+        Debug.Log("Boulder became visible!");
+    }
+
+    private void OnBecameInvisible()
+    {
+        Debug.Log("Boulder became invisible!");
+    }
 }

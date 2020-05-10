@@ -40,7 +40,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        respawnPoint.position = new Vector3(10f, 9f, 0f);
+        respawnPoint.position = new Vector3(450f, -40f, 0f);   //10f, 9f, 0f
 
         //CVC = GameObject.Find("Player Camera").GetComponent<CinemachineVirtualCamera>();
     }

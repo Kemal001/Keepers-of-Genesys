@@ -85,3 +85,6 @@ TagManager:
   - name: Abilities
     uniqueID: 1737251251
     locked: 0
+  - name: Trap
+    uniqueID: 840416495
+    locked: 0
